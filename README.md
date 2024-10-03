@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:himanshushettykt03@gmail.com)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,express,nextjs,nodejs,react,tailwind,supabase,git,docker,postman,bootstrap,github,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,express,nextjs,nodejs,react,tailwind,supabase,git,docker,postman,bootstrap,github,mongodb&perline=9&size=30)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukt03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
