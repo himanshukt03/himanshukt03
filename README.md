@@ -17,6 +17,4 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,express,nextjs,nodejs,react,tailwind,supabase,git,docker,postman,bootstrap,github,mongodb)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himanshukt03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=himanshukt03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukt03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
