@@ -13,11 +13,13 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your_discord_link_here)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:himanshushettykt03@gmail.com)
 
-### 📈 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukt03&theme=dark&hide_border=false&layout=compact)
 
 ## 🛠️ Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,express,nextjs,nodejs,react,tailwind,supabase,git,postman,github,mongodb&perline=15&size=20)](https://skillicons.dev)
+
+
+### 📈 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukt03&theme=dark&hide_border=false&layout=compact)
 
 ## 📊 GitHub Stats:
 ![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshukt03&show_icons=true&theme=dark&hide_border=false&count_private=true)
