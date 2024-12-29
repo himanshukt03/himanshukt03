@@ -1,14 +1,16 @@
 # Hey there, I'm Himanshu 👋
-<p align="center">
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
 
-## Computer Science Engineer | Full Stack Developer | Tech Enthusiast  
-🌐 Passionate about crafting innovative web applications and staying on the cutting edge of technology.  
-💻 Currently building exciting projects with a focus on Full Stack Development.  
-🔭 Always exploring new tools and practices to improve coding efficiency.  
-🚀 Open to collaborating on open-source projects and tech ideas.  
-📚 Let's chat about web development, tech trends, or any cool ideas you have!
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <div>
+    ## Computer Science Engineer | Full Stack Developer | Tech Enthusiast  
+    🌐 Passionate about crafting innovative web applications and staying on the cutting edge of technology.  
+    💻 Currently building exciting projects with a focus on Full Stack Development.  
+    🔭 Always exploring new tools and practices to improve coding efficiency.  
+    🚀 Open to collaborating on open-source projects and tech ideas.  
+    📚 Let's chat about web development, tech trends, or any cool ideas you have!
+  </div>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' style="margin-left: 20px;">
+</div>
 
 ## 🚀 Get in Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-shetty-659785256)
